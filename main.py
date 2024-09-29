@@ -1,7 +1,7 @@
 import pandas as pd
 from fetchers.play_store import fetch_and_store_app_info
 from tqdm import tqdm
-df = pd.read_csv("app_ids.csv")
+df = pd.read_csv("app_ids/play_store.csv")
 app_ids = df["android_appID"]
 app_titles = df["app_name"]
 for i in tqdm(range(len(app_ids))):
