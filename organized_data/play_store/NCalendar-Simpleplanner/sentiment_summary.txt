@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for NCalendar-Simpleplanner
+==================================================
+
+Total Reviews: 304
+
+Sentiment Distribution:
+1 stars: 22 reviews (7.2%)
+2 stars: 10 reviews (3.3%)
+3 stars: 24 reviews (7.9%)
+4 stars: 75 reviews (24.7%)
+5 stars: 173 reviews (56.9%)
+
+Average Sentiment Score: 4.21

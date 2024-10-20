@@ -1,0 +1,204 @@
+{
+    "features": "iosUniversal",
+    "supportedDevices": "iPhone5s-iPhone5s,iPadAir-iPadAir,iPadAirCellular-iPadAirCellular,iPadMiniRetina-iPadMiniRetina,iPadMiniRetinaCellular-iPadMiniRetinaCellular,iPhone6-iPhone6,iPhone6Plus-iPhone6Plus,iPadAir2-iPadAir2,iPadAir2Cellular-iPadAir2Cellular,iPadMini3-iPadMini3,iPadMini3Cellular-iPadMini3Cellular,iPodTouchSixthGen-iPodTouchSixthGen,iPhone6s-iPhone6s,iPhone6sPlus-iPhone6sPlus,iPadMini4-iPadMini4,iPadMini4Cellular-iPadMini4Cellular,iPadPro-iPadPro,iPadProCellular-iPadProCellular,iPadPro97-iPadPro97,iPadPro97Cellular-iPadPro97Cellular,iPhoneSE-iPhoneSE,iPhone7-iPhone7,iPhone7Plus-iPhone7Plus,iPad611-iPad611,iPad612-iPad612,iPad71-iPad71,iPad72-iPad72,iPad73-iPad73,iPad74-iPad74,iPhone8-iPhone8,iPhone8Plus-iPhone8Plus,iPhoneX-iPhoneX,iPad75-iPad75,iPad76-iPad76,iPhoneXS-iPhoneXS,iPhoneXSMax-iPhoneXSMax,iPhoneXR-iPhoneXR,iPad812-iPad812,iPad834-iPad834,iPad856-iPad856,iPad878-iPad878,iPadMini5-iPadMini5,iPadMini5Cellular-iPadMini5Cellular,iPadAir3-iPadAir3,iPadAir3Cellular-iPadAir3Cellular,iPodTouchSeventhGen-iPodTouchSeventhGen,iPhone11-iPhone11,iPhone11Pro-iPhone11Pro,iPadSeventhGen-iPadSeventhGen,iPadSeventhGenCellular-iPadSeventhGenCellular,iPhone11ProMax-iPhone11ProMax,iPhoneSESecondGen-iPhoneSESecondGen,iPadProSecondGen-iPadProSecondGen,iPadProSecondGenCellular-iPadProSecondGenCellular,iPadProFourthGen-iPadProFourthGen,iPadProFourthGenCellular-iPadProFourthGenCellular,iPhone12Mini-iPhone12Mini,iPhone12-iPhone12,iPhone12Pro-iPhone12Pro,iPhone12ProMax-iPhone12ProMax,iPadAir4-iPadAir4,iPadAir4Cellular-iPadAir4Cellular,iPadEighthGen-iPadEighthGen,iPadEighthGenCellular-iPadEighthGenCellular,iPadProThirdGen-iPadProThirdGen,iPadProThirdGenCellular-iPadProThirdGenCellular,iPadProFifthGen-iPadProFifthGen,iPadProFifthGenCellular-iPadProFifthGenCellular,iPhone13Pro-iPhone13Pro,iPhone13ProMax-iPhone13ProMax,iPhone13Mini-iPhone13Mini,iPhone13-iPhone13,iPadMiniSixthGen-iPadMiniSixthGen,iPadMiniSixthGenCellular-iPadMiniSixthGenCellular,iPadNinthGen-iPadNinthGen,iPadNinthGenCellular-iPadNinthGenCellular,iPhoneSEThirdGen-iPhoneSEThirdGen,iPadAirFifthGen-iPadAirFifthGen,iPadAirFifthGenCellular-iPadAirFifthGenCellular,iPhone14-iPhone14,iPhone14Plus-iPhone14Plus,iPhone14Pro-iPhone14Pro,iPhone14ProMax-iPhone14ProMax,iPadTenthGen-iPadTenthGen,iPadTenthGenCellular-iPadTenthGenCellular,iPadPro11FourthGen-iPadPro11FourthGen,iPadPro11FourthGenCellular-iPadPro11FourthGenCellular,iPadProSixthGen-iPadProSixthGen,iPadProSixthGenCellular-iPadProSixthGenCellular,iPhone15-iPhone15,iPhone15Plus-iPhone15Plus,iPhone15Pro-iPhone15Pro,iPhone15ProMax-iPhone15ProMax,iPadAir11M2-iPadAir11M2,iPadAir11M2Cellular-iPadAir11M2Cellular,iPadAir13M2-iPadAir13M2,iPadAir13M2Cellular-iPadAir13M2Cellular,iPadPro11M4-iPadPro11M4,iPadPro11M4Cellular-iPadPro11M4Cellular,iPadPro13M4-iPadPro13M4,iPadPro13M4Cellular-iPadPro13M4Cellular,iPhone16-iPhone16,iPhone16Plus-iPhone16Plus,iPhone16Pro-iPhone16Pro,iPhone16ProMax-iPhone16ProMax",
+    "advisories": "",
+    "isGameCenterEnabled": false,
+    "kind": "software",
+    "screenshotUrls": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/58/65/6558656d-3fc5-0a64-9ab4-88d5d4a1d15e/eba4187f-7d04-4251-8d17-1e6b1f40d750_5.5_today.png/392x696bb.png,https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/8b/e0/e78be022-a1bb-1b59-c955-b6198b6cc2d5/14280b82-a8be-4100-b35b-3172fc27e050_5.5_week.png/392x696bb.png,https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/4a/2f/c54a2f6a-7a52-f90c-85b9-188529eeadde/fc69f934-7522-42d3-8cae-7389041aaada_5.5_details.png/392x696bb.png,https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/c7/f2/dcc7f2d6-d9d3-01dc-1528-667665a34670/488bd7c0-6178-41ab-aab4-500006e10024_5.5_today_d.png/392x696bb.png,https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/ef/c6/b6efc6a2-95f7-e0c9-9fa8-50c24b394a64/613db7b0-efe8-49b8-aa56-b0e63afe73a3_5.5_week_d.png/392x696bb.png",
+    "ipadScreenshotUrls": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/0a/d5/900ad5df-de45-7e2f-3163-ff23d16a49bc/211a99fb-970c-4bcc-a491-37eb814a6f1b_12.9_2nd_today.png/576x768bb.png",
+    "appletvScreenshotUrls": "",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/c3/15/33c315e0-87d1-68a9-8f6c-a73e564d1fdd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/c3/15/33c315e0-87d1-68a9-8f6c-a73e564d1fdd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/c3/15/33c315e0-87d1-68a9-8f6c-a73e564d1fdd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/nl/developer/siraj-hasanov/id1671322095?uo=4",
+    "releaseNotes": "Now you can choose a colour for habits from the colour picker",
+    "minimumOsVersion": "12.0",
+    "bundleId": "xyz.thefor.habits.habits",
+    "primaryGenreName": "Productivity",
+    "primaryGenreId": 6007,
+    "releaseDate": "2023-02-24T08:00:00Z",
+    "genreIds": "6007,6013",
+    "sellerName": "Siraj Hasanov",
+    "trackId": 1671322093,
+    "trackName": "Habit Tracker: TheFor",
+    "currentVersionReleaseDate": "2024-08-08T10:18:02Z",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "version": "1.4.1",
+    "wrapperType": "software",
+    "currency": "EUR",
+    "description": "Transform Your Life with Our Powerful Habit Tracking App!\n\nAre you ready to take control of your life and become the best version of yourself? Look no further! Our app is your ultimate companion on your journey to forming and maintaining healthy habits, boosting productivity, and achieving self-improvement goals.\n\nHere's what sets our app apart:\n\nEffortless Habit Tracking:\nEasily monitor your daily habits on the main screen, ensuring you stay focused on what matters most today. With a simple swipe, you can mark each habit as complete, making tracking a breeze.\n\nComprehensive Weekly Overview:\nGet a bird's-eye view of all your habits and their weekly progress. Our app helps you visualize your achievements and areas that need improvement, keeping you on track for long-term success.\n\nTrack Your Habit History:\nGain valuable insights into your habit journey by reviewing your historical data. Watch as you make progress and transform into a better version of yourself over time.\n\nUnlimited Habit Creation:\nUnlike many habit trackers, our app allows you to create an unlimited number of habits. Whether you want to focus on fitness, mindfulness, or personal growth, we've got you covered.\n\nStunning New Widgets:\nExciting news! We've introduced four beautiful widgets to make sticking to your habits even more enjoyable and convenient. These widgets keep your habits front and center, ensuring you never lose sight of your goals.\n\nOur app is optimized for those seeking habit trackers, routines, and self-help tools. Start your journey towards a healthier, more productive, and improved self today. Download now and watch your habits transform your life!\nhttps://thefor.xyz/terms",
+    "sellerUrl": "https://thefor.xyz",
+    "averageUserRatingForCurrentVersion": 4.92856,
+    "averageUserRating": 4.92856,
+    "trackCensoredName": "Habit Tracker: TheFor",
+    "languageCodesISO2A": "EN",
+    "fileSizeBytes": "65660928",
+    "formattedPrice": "Gratis",
+    "contentAdvisoryRating": "4+",
+    "userRatingCountForCurrentVersion": 28,
+    "trackViewUrl": "https://apps.apple.com/nl/app/habit-tracker-thefor/id1671322093?uo=4",
+    "trackContentRating": "4+",
+    "artistId": 1671322095,
+    "artistName": "Siraj Hasanov",
+    "genres": "Productiviteit,Gezondheid en fitness",
+    "price": 0.0,
+    "userRatingCount": 28,
+    "reviews": [
+        {
+            "date": "2024-01-08T15:16:56",
+            "developerResponse": {
+                "id": 41196681,
+                "body": "Thanks for the review! I am glad the app is helpful! ",
+                "modified": "2024-01-10T08:50:27Z"
+            },
+            "review": "You don\u2019t know how many habit tracker apps I tried before finding this one. All I wanted was a place to track my habits and view my monthly progress without all the extra bells and whistles. Even better - there\u2019s no constant barrage of prompts asking you to upgrade! This app is perfect and exactly what I was looking for. If you\u2019re searching for a simple and aesthetically pleasing habit tracker, this is the app you want!",
+            "rating": 5,
+            "isEdited": false,
+            "userName": "Kjkr2023",
+            "title": "Perfectly Simple"
+        },
+        {
+            "date": "2024-04-08T22:26:35",
+            "developerResponse": {
+                "id": 43176447,
+                "body": "Thank you for review! We are very happy that the app helps you \ud83e\udd70\u2764\ufe0f",
+                "modified": "2024-04-10T12:15:35Z"
+            },
+            "review": "As someone who is diagnosed with ADHD, I need to master routines so I don\u2019t fall off track. I\u2019ve tried so many productivity tools out there\u2014I\u2019ve made habit trackers on notion and even used other habit tracker apps on the appstore but they just weren\u2019t effective. Finding this app though CHANGED the game for me. The UI is intuitive, simple, and it\u2019s easier than ever for me to keep up with my daily/weekly routines. Couldn\u2019t recommend enough!",
+            "rating": 5,
+            "isEdited": false,
+            "userName": "crystaliokkli",
+            "title": "Best habit tracker out there"
+        },
+        {
+            "date": "2023-12-04T19:58:25",
+            "developerResponse": {
+                "id": 40537881,
+                "body": "Thanks for the review \ud83e\udd70 do you mean icons on the habit names? You can use any emoji on the habit name at the moment",
+                "modified": "2023-12-06T11:38:36Z"
+            },
+            "review": "I\u2019m looking for something simple to keep track of my habits. I\u2019ve tried almost 10 apps. While I deleted all others instantly because they didn\u2019t meet my requirements for a simple solution. This one stay and I love it. The color scheme is easy on the eyes. The way it works just what I wanted. It would be nice if they add cutes icons, but so far so good!",
+            "rating": 5,
+            "isEdited": false,
+            "userName": "haphanthi",
+            "title": "Simple yet efficient"
+        },
+        {
+            "date": "2023-07-25T16:29:53",
+            "developerResponse": {
+                "id": 39053791,
+                "body": "Thank you for the kind words \ud83e\udd70 It has a tick sound when you complete a habit. We will add more sounds in the future ",
+                "modified": "2023-09-21T11:58:42Z"
+            },
+            "review": "I\u2019ve tried many habit tracking apps, but I like this one the most\u2014 especially because of its simplicity. Would definitely recommend people. I wish that it has an option for completion sound when I complete a daily habit though.",
+            "rating": 5,
+            "isEdited": false,
+            "userName": "Hothandj",
+            "title": "Simple"
+        },
+        {
+            "date": "2023-11-04T19:24:38",
+            "developerResponse": {
+                "id": 39968466,
+                "body": "Hi! Thanks for the kind words \ud83e\udd70 We already have 4 kind of widgets. Please let me know if you cannot find them. I would be happy to help if that\u2019s the case",
+                "modified": "2023-11-06T23:57:47Z"
+            },
+            "review": "Love this app, great and simple. Easy to use and I love that you can have as many tasks as you want which is rare for free apps. Would be AMAZING if there was a widget for the home screen to give you a look at what tasks you have left for the day and to keep them in your mind.",
+            "rating": 5,
+            "isEdited": false,
+            "userName": "ellerond",
+            "title": "Please make a widget!"
+        },
+        {
+            "date": "2024-01-02T17:54:13",
+            "developerResponse": {
+                "id": 41071192,
+                "body": "Thanks for the review! :)",
+                "modified": "2024-01-04T08:05:25Z"
+            },
+            "review": "All I wanted from a habit tracker is for it to look clean and let me track as many things as I want for free. THIS IS BOTH. And there\u2019s a cute widget I can put on my home screen as the cherry on top. Thank you so much to the creators of this app for making something simple and effective!",
+            "rating": 5,
+            "isEdited": false,
+            "userName": "JupiterBee_",
+            "title": "Amazing / UNLIMITED HABITS!!"
+        },
+        {
+            "date": "2023-03-24T00:26:13",
+            "developerResponse": {
+                "id": 35660321,
+                "body": "Thank you \ud83e\udd70 Happy that you loved it",
+                "modified": "2023-03-29T16:20:56Z"
+            },
+            "review": "Super simple, beautiful, no fuss, easy to navigate and figure out.  I spent all afternoon looking for the perfect habit tracker that didn\u2019t involve a lot unnecessary things and was easy to figure out and this one was the best one so far.",
+            "rating": 5,
+            "isEdited": false,
+            "userName": "bookiechica",
+            "title": "Love it"
+        },
+        {
+            "date": "2023-04-09T13:46:31",
+            "developerResponse": {
+                "id": 35911271,
+                "body": "Thank you! \ud83e\udd70 ",
+                "modified": "2023-04-12T09:47:59Z"
+            },
+            "review": "Perfect, simple, well designed, thanks for sharing this :)",
+            "rating": 5,
+            "isEdited": false,
+            "userName": "NYoc-8823",
+            "title": "No extra junk!"
+        },
+        {
+            "date": "2023-04-24T22:45:41",
+            "developerResponse": {
+                "id": 36176790,
+                "body": "Hi! Thanks for the review! Sorry that you experienced the issue \ud83d\ude15 Could you please dm us on instagram or twitter or at twitter@thefor.xyz? I would be happy to help. Could you please also try killing and opening the app and retry to subscribe?",
+                "modified": "2023-04-26T07:29:50Z"
+            },
+            "review": "Nice simple app. \nI payed for an annual subscription but the app is still prompting me to pay. Hitting restore purchase does not help.  Unable to contact developer on their website.  Hopefully this issue will be fixed.",
+            "rating": 4,
+            "isEdited": false,
+            "userName": "RB12281",
+            "title": "Nice app but subscription not working"
+        },
+        {
+            "date": "2023-10-01T09:59:20",
+            "developerResponse": {
+                "id": 39611013,
+                "body": "Thanks for the review \u2764\ufe0f Sure, we will create more widgets",
+                "modified": "2023-10-19T10:05:02Z"
+            },
+            "review": "App works perfectly, would love the option to see the month view for each habit as a widget!",
+            "rating": 4,
+            "isEdited": false,
+            "userName": "sh221bbkr",
+            "title": "More widgets please!"
+        },
+        {
+            "date": "2024-07-23T09:14:36",
+            "developerResponse": {
+                "id": 45494121,
+                "body": "Thank you \ud83e\udd29 ",
+                "modified": "2024-07-24T14:29:19Z"
+            },
+            "review": "the exact thing I needed",
+            "rating": 5,
+            "isEdited": false,
+            "userName": "nuxiygnaw",
+            "title": "clean design & perfect functionality"
+        },
+        {
+            "date": "2024-02-18T21:25:31",
+            "developerResponse": {
+                "id": 42090373,
+                "body": "Thanks for the review! \ud83d\ude4f ",
+                "modified": "2024-02-20T20:10:34Z"
+            },
+            "review": "I tried many of the habit trackers and have found this one to be the best and the great thing about that is that you can track as many habits as you want for free. It does what you want it do, track habits, and allows lots of flexibility in how you track; daily, weekly, 3 times per week, etc\u2026 I like that you can color code and order the habits. I order for morning til nighttime. You can also have habits disappear off your list once completed. Of all the apps I tried this has the best options for tracking habits you do a certain amount of times in a week, instead of just once a day. I can keep my exercise streak alive 6 days a week and not worry about taking Sundays off and losing my streak. This app should be used by a lot more people as it\u2019s better than so many of the other more expensive paid apps.",
+            "rating": 5,
+            "isEdited": false,
+            "userName": "Jfasioe",
+            "title": "Fantastic Habit Tracker"
+        }
+    ]
+}

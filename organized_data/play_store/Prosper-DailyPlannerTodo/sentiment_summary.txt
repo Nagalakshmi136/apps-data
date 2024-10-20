@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for Prosper-DailyPlannerTodo
+==================================================
+
+Total Reviews: 813
+
+Sentiment Distribution:
+1 stars: 39 reviews (4.8%)
+2 stars: 24 reviews (3.0%)
+3 stars: 62 reviews (7.6%)
+4 stars: 170 reviews (20.9%)
+5 stars: 518 reviews (63.7%)
+
+Average Sentiment Score: 4.36

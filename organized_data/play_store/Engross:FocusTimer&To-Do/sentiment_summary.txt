@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for Engross:FocusTimer&To-Do
+==================================================
+
+Total Reviews: 3768
+
+Sentiment Distribution:
+1 stars: 239 reviews (6.3%)
+2 stars: 136 reviews (3.6%)
+3 stars: 350 reviews (9.3%)
+4 stars: 1046 reviews (27.8%)
+5 stars: 1997 reviews (53.0%)
+
+Average Sentiment Score: 4.17

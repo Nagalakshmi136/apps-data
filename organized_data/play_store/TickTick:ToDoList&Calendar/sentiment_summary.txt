@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for TickTick:ToDoList&Calendar
+==================================================
+
+Total Reviews: 24324
+
+Sentiment Distribution:
+1 stars: 1460 reviews (6.0%)
+2 stars: 897 reviews (3.7%)
+3 stars: 1719 reviews (7.1%)
+4 stars: 5027 reviews (20.7%)
+5 stars: 15221 reviews (62.6%)
+
+Average Sentiment Score: 4.30

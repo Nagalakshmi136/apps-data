@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for HabitNowDailyRoutinePlanner
+==================================================
+
+Total Reviews: 9244
+
+Sentiment Distribution:
+1 stars: 317 reviews (3.4%)
+2 stars: 223 reviews (2.4%)
+3 stars: 667 reviews (7.2%)
+4 stars: 2174 reviews (23.5%)
+5 stars: 5863 reviews (63.4%)
+
+Average Sentiment Score: 4.41

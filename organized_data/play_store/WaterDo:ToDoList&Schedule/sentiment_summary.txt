@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for WaterDo:ToDoList&Schedule
+==================================================
+
+Total Reviews: 1323
+
+Sentiment Distribution:
+1 stars: 133 reviews (10.1%)
+2 stars: 70 reviews (5.3%)
+3 stars: 149 reviews (11.3%)
+4 stars: 397 reviews (30.0%)
+5 stars: 574 reviews (43.4%)
+
+Average Sentiment Score: 3.91

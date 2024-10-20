@@ -1,16 +1,11 @@
 from google_play_scraper import app, Sort, reviews_all
 import json
-import datetime
+from utils.common_utils import serialize_datetime 
 from pathlib import Path
-
-def serialize_datetime(obj): 
-    if isinstance(obj, datetime.datetime): 
-        return obj.isoformat() 
-    raise TypeError("Type not serializable") 
 
 def fetch_and_store_app_info(app_id: str, app_name: str):
     app_name = app_name.replace(" ", "")
-    app_data_file = f"data/{app_name}.json"
+    app_data_file = f"data/playstore/{app_name}.json"
     if Path(app_data_file).exists():
         return
     #fetching app information

@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for Habitica:GamifyYourTasks
+==================================================
+
+Total Reviews: 7662
+
+Sentiment Distribution:
+1 stars: 908 reviews (11.9%)
+2 stars: 826 reviews (10.8%)
+3 stars: 1174 reviews (15.3%)
+4 stars: 1788 reviews (23.3%)
+5 stars: 2966 reviews (38.7%)
+
+Average Sentiment Score: 3.66

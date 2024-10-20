@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for Forest:FocusforProductivity
+==================================================
+
+Total Reviews: 66776
+
+Sentiment Distribution:
+1 stars: 5660 reviews (8.5%)
+2 stars: 2956 reviews (4.4%)
+3 stars: 5969 reviews (8.9%)
+4 stars: 16975 reviews (25.4%)
+5 stars: 35216 reviews (52.7%)
+
+Average Sentiment Score: 4.10

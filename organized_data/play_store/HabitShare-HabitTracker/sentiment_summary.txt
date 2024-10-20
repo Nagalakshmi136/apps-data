@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for HabitShare-HabitTracker
+==================================================
+
+Total Reviews: 530
+
+Sentiment Distribution:
+1 stars: 33 reviews (6.2%)
+2 stars: 28 reviews (5.3%)
+3 stars: 69 reviews (13.0%)
+4 stars: 130 reviews (24.5%)
+5 stars: 270 reviews (50.9%)
+
+Average Sentiment Score: 4.09

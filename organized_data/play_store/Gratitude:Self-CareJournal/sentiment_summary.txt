@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for Gratitude:Self-CareJournal
+==================================================
+
+Total Reviews: 18925
+
+Sentiment Distribution:
+1 stars: 488 reviews (2.6%)
+2 stars: 235 reviews (1.2%)
+3 stars: 649 reviews (3.4%)
+4 stars: 2957 reviews (15.6%)
+5 stars: 14596 reviews (77.1%)
+
+Average Sentiment Score: 4.63

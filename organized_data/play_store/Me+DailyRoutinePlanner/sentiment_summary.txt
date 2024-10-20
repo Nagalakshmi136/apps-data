@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for Me+DailyRoutinePlanner
+==================================================
+
+Total Reviews: 16247
+
+Sentiment Distribution:
+1 stars: 3015 reviews (18.6%)
+2 stars: 1027 reviews (6.3%)
+3 stars: 1319 reviews (8.1%)
+4 stars: 3117 reviews (19.2%)
+5 stars: 7769 reviews (47.8%)
+
+Average Sentiment Score: 3.71

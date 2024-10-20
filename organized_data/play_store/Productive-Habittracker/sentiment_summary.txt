@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for Productive-Habittracker
+==================================================
+
+Total Reviews: 2243
+
+Sentiment Distribution:
+1 stars: 580 reviews (25.9%)
+2 stars: 217 reviews (9.7%)
+3 stars: 319 reviews (14.2%)
+4 stars: 418 reviews (18.6%)
+5 stars: 709 reviews (31.6%)
+
+Average Sentiment Score: 3.20

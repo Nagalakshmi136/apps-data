@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for Habitify:DailyHabitTracker
+==================================================
+
+Total Reviews: 825
+
+Sentiment Distribution:
+1 stars: 133 reviews (16.1%)
+2 stars: 98 reviews (11.9%)
+3 stars: 129 reviews (15.6%)
+4 stars: 175 reviews (21.2%)
+5 stars: 290 reviews (35.2%)
+
+Average Sentiment Score: 3.47

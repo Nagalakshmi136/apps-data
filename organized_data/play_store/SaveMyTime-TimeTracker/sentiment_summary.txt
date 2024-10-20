@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for SaveMyTime-TimeTracker
+==================================================
+
+Total Reviews: 2641
+
+Sentiment Distribution:
+1 stars: 140 reviews (5.3%)
+2 stars: 116 reviews (4.4%)
+3 stars: 267 reviews (10.1%)
+4 stars: 696 reviews (26.4%)
+5 stars: 1422 reviews (53.8%)
+
+Average Sentiment Score: 4.19

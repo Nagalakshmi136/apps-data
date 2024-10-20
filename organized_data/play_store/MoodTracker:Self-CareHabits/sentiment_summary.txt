@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for MoodTracker:Self-CareHabits
+==================================================
+
+Total Reviews: 2157
+
+Sentiment Distribution:
+1 stars: 78 reviews (3.6%)
+2 stars: 47 reviews (2.2%)
+3 stars: 122 reviews (5.7%)
+4 stars: 563 reviews (26.1%)
+5 stars: 1347 reviews (62.4%)
+
+Average Sentiment Score: 4.42

@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for Dreamfora:AIGoalSetting
+==================================================
+
+Total Reviews: 3571
+
+Sentiment Distribution:
+1 stars: 269 reviews (7.5%)
+2 stars: 163 reviews (4.6%)
+3 stars: 298 reviews (8.3%)
+4 stars: 780 reviews (21.8%)
+5 stars: 2061 reviews (57.7%)
+
+Average Sentiment Score: 4.18

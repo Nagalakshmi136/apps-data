@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for Sectograph.Day&Timeplanner
+==================================================
+
+Total Reviews: 9026
+
+Sentiment Distribution:
+1 stars: 466 reviews (5.2%)
+2 stars: 346 reviews (3.8%)
+3 stars: 817 reviews (9.1%)
+4 stars: 2371 reviews (26.3%)
+5 stars: 5026 reviews (55.7%)
+
+Average Sentiment Score: 4.23

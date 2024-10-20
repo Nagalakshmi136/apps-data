@@ -1,0 +1,13 @@
+Sentiment Analysis Summary for FabulousDailyRoutinePlanner
+==================================================
+
+Total Reviews: 90993
+
+Sentiment Distribution:
+1 stars: 9281 reviews (10.2%)
+2 stars: 4071 reviews (4.5%)
+3 stars: 5758 reviews (6.3%)
+4 stars: 17923 reviews (19.7%)
+5 stars: 53960 reviews (59.3%)
+
+Average Sentiment Score: 4.13
